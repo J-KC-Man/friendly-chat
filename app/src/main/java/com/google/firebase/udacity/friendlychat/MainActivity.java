@@ -33,6 +33,7 @@ import android.widget.ProgressBar;
 import java.util.ArrayList;
 import java.util.List;
 
+//This is the main activity class
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
